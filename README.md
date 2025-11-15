@@ -63,7 +63,7 @@ Vérifier les opérations ALU (flags, overflow, carry, etc.)
 Tester le shifter indépendamment
 Valider le datapath complet sur plusieurs instructions ARM
 Tracer les signaux critiques (RegWrite, ALUResult, MemoryData, Flags, PC, etc.)
-Les simulations sont réalisées sous ModelSim / QuestaSim / GHDL.
+Les simulations sont réalisées sous vivado .
 
 Objectif pédagogique
 Ce projet vise à :
